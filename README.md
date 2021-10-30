@@ -24,7 +24,7 @@ AGORA_APP_ID=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 AGORA_CERTIFICATE=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 ```
 
-You can get the AppID and the certificate on you [project settings page](https://console.agora.io/projects)
+You can get the AppID and the certificate on your [project settings page](https://console.agora.io/projects)
 
 Installation is done using the follow command:
 
