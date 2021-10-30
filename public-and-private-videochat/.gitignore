@@ -1,0 +1,6 @@
+.idea
+.vscode
+.env
+lib
+node_modules
+output
